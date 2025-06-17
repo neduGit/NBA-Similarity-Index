@@ -11,7 +11,7 @@ The tool uses a broad spectrum of basketball statistics to evaluate player simil
 - Per 100 Possessions Stats
 - Advanced Analytics (e.g., PER, BPM, WS, etc.)
 - Hustle Stats (deflections, contested shots, loose balls recovered, etc.)
-- Play-by-Play Metrics (e.g., usage rate, touches, points per touch)
+- Play-by-Play Metrics (e.g. Position Estimate, +/-, etc.)
 - Shot Type Data (pull-ups, catch & shoot, drives, etc.)
 - Advanced Shooting Statistics (e.g., eFG%, TS%, shot location breakdowns)
 - Per Game Stats (traditional stats like points, rebounds, assists)
