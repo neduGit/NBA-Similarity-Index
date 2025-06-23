@@ -5,6 +5,11 @@ This project is a Python-based tool that identifies NBA players most similar to 
 ## How It Works
 The script compares a target player to all other players in the dataset using a variety of metrics. A similarity score (0 to 10) is calculated for each comparison, where 10 indicates high similarity.
 
+### - Files:
+- EDA.ipynb: initial index with no pca done for weights
+- PCA.ipynb: PCA used on data to use variability to determine weights for each parameter/dataset used
+- weighted.ipynb: index with corresponding weights for each parameter/dataset
+
 ## Features
 The tool uses a broad spectrum of basketball statistics to evaluate player similarity, including:
 
